@@ -1,3 +1,12 @@
 # Default ignored files
 /shelf/
 /.idea/
+/target/
+/backend/target/
+/frontend/target/
+
+#IDEA artifacts and output dirs
+*.iml
+*.ipr
+*.iws
+.idea
